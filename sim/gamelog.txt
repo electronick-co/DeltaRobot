@@ -1,0 +1,126 @@
+c:\users\dan\documents\delta3\file.cpp (20): Starting File
+c:\users\dan\documents\delta3\config.cpp (82): Config Start
+c:\users\dan\documents\delta3\window.cpp (107): Window Opening...
+c:\users\dan\documents\delta3\input.cpp (362): Input_GainFocus()
+c:\users\dan\documents\delta3\input.cpp (368): 0 joysticks found
+c:\users\dan\documents\delta3\window.cpp (68): initializing OpenGL...
+c:\users\dan\documents\delta3\window.cpp (82): gl_vendor:   Intel
+c:\users\dan\documents\delta3\window.cpp (83): gl_renderer: Intel(R) HD Graphics Family
+c:\users\dan\documents\delta3\window.cpp (84): gl_version:  3.0.0 - Build 8.15.10.2342
+c:\users\dan\documents\delta3\window.cpp (85): gl_extensions:
+GL_EXT_blend_minmax
+GL_EXT_blend_subtract
+GL_EXT_blend_color
+GL_EXT_abgr
+GL_EXT_texture3D
+GL_EXT_clip_volume_hint
+GL_EXT_compiled_vertex_array
+GL_SGIS_texture_edge_clamp
+GL_SGIS_generate_mipmap
+GL_EXT_draw_range_elements
+GL_SGIS_texture_lod
+GL_EXT_rescale_normal
+GL_EXT_packed_pixels
+GL_EXT_texture_edge_clamp
+GL_EXT_separate_specular_color
+GL_ARB_multitexture
+GL_EXT_texture_env_combine
+GL_EXT_bgra
+GL_EXT_blend_func_separate
+GL_EXT_secondary_color
+GL_EXT_fog_coord
+GL_EXT_texture_env_add
+GL_ARB_texture_cube_map
+GL_ARB_transpose_matrix
+GL_ARB_texture_env_add
+GL_IBM_texture_mirrored_repeat
+GL_EXT_multi_draw_arrays
+GL_NV_blend_square
+GL_ARB_texture_compression
+GL_3DFX_texture_compression_FXT1
+GL_EXT_texture_filter_anisotropic
+GL_ARB_texture_border_clamp
+GL_ARB_point_parameters
+GL_ARB_texture_env_combine
+GL_ARB_texture_env_dot3
+GL_ARB_texture_env_crossbar
+GL_EXT_texture_compression_s3tc
+GL_ARB_shadow
+GL_ARB_window_pos
+GL_EXT_shadow_funcs
+GL_EXT_stencil_wrap
+GL_ARB_vertex_program
+GL_EXT_texture_rectangle
+GL_ARB_fragment_program
+GL_EXT_stencil_two_side
+GL_ATI_separate_stencil
+GL_ARB_vertex_buffer_object
+GL_EXT_texture_lod_bias
+GL_ARB_occlusion_query
+GL_ARB_fragment_shader
+GL_ARB_shader_objects
+GL_ARB_shading_language_100
+GL_ARB_texture_non_power_of_two
+GL_ARB_vertex_shader
+GL_NV_texgen_reflection
+GL_ARB_point_sprite
+GL_EXT_blend_equation_separate
+GL_ARB_depth_texture
+GL_ARB_texture_rectangle
+GL_ARB_draw_buffers
+GL_ARB_color_buffer_float
+GL_ARB_half_float_pixel
+GL_ARB_texture_float
+GL_ARB_pixel_buffer_object
+GL_EXT_framebuffer_object
+GL_ARB_draw_instanced
+GL_ARB_half_float_vertex
+GL_EXT_draw_buffers2
+GL_WIN_swap_hint
+GL_EXT_texture_sRGB
+GL_ARB_multisample
+GL_EXT_packed_float
+GL_EXT_texture_shared_exponent
+GL_ARB_texture_rg
+GL_ARB_texture_compression_rgtc
+GL_NV_conditional_render
+GL_EXT_texture_swizzle
+GL_ARB_framebuffer_sRGB
+GL_EXT_packed_depth_stencil
+GL_ARB_depth_buffer_float
+GL_EXT_transform_feedback
+GL_EXT_framebuffer_blit
+GL_EXT_framebuffer_multisample
+GL_ARB_framebuffer_object
+GL_EXT_texture_array
+GL_EXT_texture_integer
+GL_ARB_map_buffer_range
+GL_EXT_texture_snorm
+GL_INTEL_performance_queries
+GL_ARB_vertex_array_object
+c:\users\dan\documents\delta3\window.cpp (99): GL stencil=8 bits
+c:\users\dan\documents\delta3\window.cpp (101): OpenGL Initialized.
+c:\users\dan\documents\delta3\window.cpp (49): Window resize (800,600)
+c:\users\dan\documents\delta3\window.cpp (171): Clearing screen...
+c:\users\dan\documents\delta3\window.cpp (178): Misc gfx related items...
+c:\users\dan\documents\delta3\texture.cpp (387): Loading all textures
+c:\users\dan\documents\delta3\font.cpp (150): Loading all fonts
+c:\users\dan\documents\delta3\window.cpp (184): Window has opened.
+c:\users\dan\documents\delta3\input.cpp (38): Starting Input
+c:\users\dan\documents\delta3\font.cpp (15): Loading font '@courrier16.raw'
+c:\users\dan\documents\delta3\font.cpp (42):   Creating textures...
+c:\users\dan\documents\delta3\font.cpp (50):   Reticulating splines...
+c:\users\dan\documents\delta3\font.cpp (96):   calculating metrics...
+c:\users\dan\documents\delta3\font.cpp (138): Font loaded
+c:\users\dan\documents\delta3\texture.cpp (353): Creating texture '@floor.tga'
+c:\users\dan\documents\designs\delta-robot\v2\code\main.cpp (359): --------------------------------Round Init--------------------------------
+c:\users\dan\documents\designs\delta-robot\v2\code\main.cpp (373): --------------------------------Round Start--------------------------------
+c:\users\dan\documents\delta3\input.cpp (402): Input_LostFocus()
+c:\users\dan\documents\delta3\input.cpp (362): Input_GainFocus()
+c:\users\dan\documents\delta3\input.cpp (368): 0 joysticks found
+c:\users\dan\documents\designs\delta-robot\v2\code\main.cpp (444): --------------------------------Game Shutdown--------------------------------
+c:\users\dan\documents\delta3\texture.cpp (368): Destroying texture '@floor.tga'
+c:\users\dan\documents\delta3\font.cpp (205): Destroying font '@courrier16.raw'
+c:\users\dan\documents\delta3\input.cpp (356): Ending Input
+c:\users\dan\documents\delta3\config.cpp (89): Config End
+c:\users\dan\documents\delta3\file.cpp (26): Ending File

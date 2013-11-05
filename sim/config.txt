@@ -1,0 +1,55 @@
+Delta3={
+  ANEG=A
+  APOS=Q
+  BNEG=S
+  BPOS=W
+  CNEG=D
+  CPOS=E
+  dxNEG=A
+  dxPOS=Q
+  dyNEG=S
+  dyPOS=W
+  dzNEG=D
+  dzPOS=E
+  modeNEG=COMMA
+  modePOS=PERIOD
+}
+game={
+  camera_zoom_in=MOUSE0_BUTTON_WHEELUP
+  camera_zoom_out=MOUSE0_BUTTON_WHEELDOWN
+  cursor_down=MOUSE0_AXIS_YPOS
+  cursor_left=MOUSE0_AXIS_XNEG
+  cursor_right=MOUSE0_AXIS_XPOS
+  cursor_up=MOUSE0_AXIS_YNEG
+  inputScale=100
+  left_click=MOUSE0_BUTTON_LEFT
+  next_robot=LEFTBRACKET
+  prev_robot=RIGHTBRACKET
+  right_click=MOUSE0_BUTTON_RIGHT
+}
+general={
+  continue_no=N
+  continue_yes=Y
+  ctrl=LCTRL
+  fullscreen=F1
+  p=P
+  pause=P
+  quit=ESCAPE
+  r=R
+  render_meshes=1
+  screenshot=F2
+  shift=LSHIFT
+}
+hexapod={
+  ANEG=A
+  APOS=Q
+  BNEG=S
+  BPOS=W
+  CNEG=D
+  CPOS=E
+}
+window={
+  fullscreen=0
+  height=600
+  width=800
+}
